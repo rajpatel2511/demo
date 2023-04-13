@@ -1,0 +1,11 @@
+.App {
+background-color: #282c34;
+}
+
+.list{
+  text-align: center;
+  color: white;
+}
+.completed {
+  text-decoration: line-through;
+}
